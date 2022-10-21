@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+.images-icon {
+  width: 50px;
+  height: 50px;
+}
+
+/*media query for track package*/
+@media (max-width: 1000px) {
+  .track-package {
+    display: none;
+  }
+}/*# sourceMappingURL=style.css.map */
